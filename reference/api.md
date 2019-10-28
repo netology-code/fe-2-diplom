@@ -15,12 +15,12 @@ fetch( 'https://netology-trainbooking.herokuapp.com/routes/last' )
 
 ### Основные функции API
 
-1. [Поиск городов](./api/cities.md)
-2. [Поиск направлений](./api/routes.md)
-3. [Последние направления](./api/last-routes.md)
-4. [Карта поезда (свободные и занятые места в вагонах)](./api/seats.md)
-5. [Заказ билетов](./api/order.md)
-6. [Подписка на email-новости](./api/subscribe.md)
+1. [Поиск городов](./../api/cities.md)
+2. [Поиск направлений](./../api/routes.md)
+3. [Последние направления](./../api/last-routes.md)
+4. [Карта поезда (свободные и занятые места в вагонах)](./../api/seats.md)
+5. [Заказ билетов](./../api/order.md)
+6. [Подписка на email-новости](./../api/subscribe.md)
 
 Не забывайте обрабатывать ошибки АПИ.
 
