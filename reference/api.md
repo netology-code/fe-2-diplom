@@ -25,7 +25,7 @@ fetch( 'https://netology-trainbooking.herokuapp.com/routes/last' )
 Не забывайте обрабатывать ошибки АПИ.
 
 ## Swagger-документация
-Будет размещена по адресу: http://se.sdew.ru
+https://fe-swagger-test.herokuapp.com/
 
 Вы увидите интерактивную страницу, на которой сможете протестировать 
 работу сервиса.
