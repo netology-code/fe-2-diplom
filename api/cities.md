@@ -12,7 +12,7 @@ GET /routes/cities
 ## Пример
 
 ```javascript
-fetch( 'https://netology-trainbooking.herokuapp.com/routes/cities?name=мос' )
+fetch( 'https://fe-diplom.herokuapp.com/routes/cities?name=мос' )
     .then( response => response.json())
     .then( data => console.log( data ));
 ```
