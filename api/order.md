@@ -10,7 +10,7 @@ POST /routes/order
 ## Пример:
 
 ```js
-fetch( 'https://netology-trainbooking.herokuapp.com/order', {
+fetch( 'https://fe-diplom.herokuapp.com/order', {
     method: 'POST',
     body: JSON.stringify({
       "user": {
