@@ -5,7 +5,7 @@ GET /routes/last
 ## Пример
 
 ```javascript
-fetch( 'https://fe-diplom.herokuapp.com//routes/last' )
+fetch( 'https://netology-trainbooking.netoservices.ru/routes/last' )
     .then( response => response.json())
     .then( data => {
         data.forEach( el => {

@@ -7,7 +7,7 @@
 ## Пример:
 
 ```javascript
-fetch( 'https://fe-diplom.herokuapp.com/subscribe?email=hello@kitty.com' )
+fetch( 'https://netology-trainbooking.netoservices.ru/subscribe?email=hello@kitty.com' )
     .then( response => response.json())
     .then( data => console.log( data ));
 ```

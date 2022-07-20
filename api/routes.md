@@ -1,11 +1,11 @@
 # Поиск направлений
 
-GET https://netology-trainbooking.herokuapp.com/routes
+GET https://netology-trainbooking.netoservices.ru/routes
 
 ## Пример запроса:
 
 ```javascript
-fetch( 'https://netology-trainbooking.herokuapp.com/routes?from_city_id=5b9a2fa7f83e028786ea5672&to_city_id=5b9a2fa8f83e028786ea567b' )
+fetch( 'https://netology-trainbooking.netoservices.ru/routes?from_city_id=5b9a2fa7f83e028786ea5672&to_city_id=5b9a2fa8f83e028786ea567b' )
     .then( response => response.json()
         .then( data => { console.log( 'routes',  data ) })
     );
