@@ -5,8 +5,8 @@
 
 ## Этапы разработки
 1. [Установка и настройка проекта](./reference/steps/setup.md)
-1. [Вёрстка проекта и роутинг](./reference/steps/markup.md)
-3. [Компоненты](./reference/сomponents.md)
+2. [Вёрстка проекта и роутинг](./reference/steps/markup.md)
+3. [Компоненты](./reference/steps/сomponents.md)
 4. [Собираем всё вместе](./reference/steps/finish.md)
 
 Также настоятельно рекомендуется сдавать данную работу на этих
