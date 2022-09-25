@@ -10,23 +10,23 @@
   required: true
 
 - name: date_start
-  description: Дата отбытия туда (в формате YYYY-DD-MM; например 2030-03-01)
+  description: Дата отбытия туда (в формате YYYY-MM-DD; например 2030-03-01)
   type: string
   format: date
   in: query
 - name: date_end
-  description: Дата отбытия обратно (в формате YYYY-DD-MM; например 2030-03-01)
+  description: Дата отбытия обратно (в формате YYYY-MM-DD; например 2030-03-01)
   type: string
   format: date
   in: query
 
 - name: date_start_arrival
-  description: Дата прибытия туда (в формате YYYY-DD-MM; например 2030-03-01)
+  description: Дата прибытия туда (в формате YYYY-MM-DD; например 2030-03-01)
   type: string
   format: date
   in: query
 - name: date_end_arrival
-  description: Дата прибытия обратно (в формате YYYY-DD-MM; например 2030-03-01)
+  description: Дата прибытия обратно (в формате YYYY-MM-DD; например 2030-03-01)
   type: string
   format: date
   in: query
