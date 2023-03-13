@@ -25,7 +25,7 @@ fetch( 'https://netology-trainbooking.netoservices.ru/routes/last' )
 Не забывайте обрабатывать ошибки АПИ.
 
 ## Swagger-документация
-https://fe-swagger-test.herokuapp.com/
+https://netology-code.github.io/fe-2-diplom/
 
 Вы увидите интерактивную страницу, на которой сможете протестировать 
 работу сервиса.
