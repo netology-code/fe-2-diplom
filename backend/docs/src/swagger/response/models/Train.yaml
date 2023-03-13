@@ -1,8 +1,0 @@
-type: object
-properties:
-  _id:
-    type: string
-    description: Идентификатор
-  name:
-    type: string
-    description: Название

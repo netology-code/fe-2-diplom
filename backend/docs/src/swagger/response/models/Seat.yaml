@@ -1,9 +1,0 @@
-type: object
-description: Место в вагоне
-properties:
-  index:
-    type: number
-    description: Числовой номер места в вагоне
-  available:
-    type: boolean
-    description: Место доступно для бронирования
