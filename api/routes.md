@@ -1,6 +1,6 @@
 # Поиск направлений
 
-GET https://netology-trainbooking.netoservices.ru/routes
+GET https://students.netoservices.ru/fe-diplom/routes
 
 ## Пример запроса:
 
