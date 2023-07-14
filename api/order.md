@@ -10,7 +10,7 @@ POST /routes/order
 ## Пример:
 
 ```js
-fetch( 'https://netology-trainbooking.netoservices.ru/order', {
+fetch( 'https://students.netoservices.ru/fe-diplom/order', {
     method: 'POST',
     body: JSON.stringify({
       "user": {
