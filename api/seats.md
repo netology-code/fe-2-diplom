@@ -21,7 +21,7 @@ GET /routes/{id}/seats
 ## Пример:
 
 ```javascript
-fetch( 'https://netology-trainbooking.netoservices.ru/routes/5b9a35bcf83e028786ea74ef/seats?have_wifi=false' )
+fetch( 'https://students.netoservices.ru/fe-diplom/routes/5b9a35bcf83e028786ea74ef/seats?have_wifi=false' )
     .then( response => response.json())
     .then( data => console.log( data ));
 ```
