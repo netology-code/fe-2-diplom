@@ -12,7 +12,7 @@ GET /routes/cities
 ## Пример
 
 ```javascript
-fetch( 'https://netology-trainbooking.netoservices.ru/routes/cities?name=мос' )
+fetch( 'https://students.netoservices.ru/fe-diplom/routes/cities?name=мос' )
     .then( response => response.json())
     .then( data => console.log( data ));
 ```
