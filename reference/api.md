@@ -1,12 +1,12 @@
 # API сервиса
 
 ### Базовый URL АПИ:
-*https://netology-trainbooking.netoservices.ru/*. 
+*https://students.netoservices.ru/fe-diplom//*. 
 
 Пример запроса:
 
 ```js
-fetch( 'https://netology-trainbooking.netoservices.ru/routes/last' )
+fetch( 'https://students.netoservices.ru/fe-diplom//last' )
     .then( response => response.json() )
     .then( data => console.log(data) );
 ```
