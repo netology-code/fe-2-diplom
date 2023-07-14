@@ -5,7 +5,7 @@ GET /routes/last
 ## Пример
 
 ```javascript
-fetch( 'https://netology-trainbooking.netoservices.ru/routes/last' )
+fetch( 'https://students.netoservices.ru/fe-diplom/routes/last' )
     .then( response => response.json())
     .then( data => {
         data.forEach( el => {
