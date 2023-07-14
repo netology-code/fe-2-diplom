@@ -1,12 +1,12 @@
 # API сервиса
 
 ### Базовый URL АПИ:
-*https://students.netoservices.ru/fe-diplom/*. 
+*https://students.netoservices.ru/fe-diplom*. 
 
 Пример запроса:
 
 ```js
-fetch( 'https://students.netoservices.ru/fe-diplom//last' )
+fetch( 'https://students.netoservices.ru/fe-diplom/last' )
     .then( response => response.json() )
     .then( data => console.log(data) );
 ```
