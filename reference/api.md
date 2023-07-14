@@ -1,7 +1,7 @@
 # API сервиса
 
 ### Базовый URL АПИ:
-*https://students.netoservices.ru/fe-diplom//*. 
+*https://students.netoservices.ru/fe-diplom/*. 
 
 Пример запроса:
 
