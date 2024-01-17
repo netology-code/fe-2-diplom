@@ -105,6 +105,7 @@ class RoutesSeeder extends Seeder {
               haveThirdClass = checkCoachesForClass( 'third' ),
               haveFourthClass = checkCoachesForClass( 'fourth' ),
               dateDepart = moment()
+                .year( year )
                 .month( monthNumber )
                 .add( rand( 0, 40 ), 'days' )
                 .add( rand( 0, 50 ), 'hours' )
